@@ -14,7 +14,7 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 ![P20220430_110316000_0D90AAD7-9517-4EE1-B10E-C55BD6603E1A (1)](https://user-images.githubusercontent.com/92089428/166086739-11e9aff4-dcc9-4614-ba53-bbe1e827cca8.PNG)
 ![P20220430_110419000_B6E5FE70-ABB1-4E2D-B340-B8396185DC53 (1)](https://user-images.githubusercontent.com/92089428/166086755-03443871-5531-4fbf-ba70-8f83df0d5021.PNG)
 
-![P20220430_110203000_9FBA3E43-1E39-491D-B9E0-F26909FBEE4E (1)](https://user-images.githubusercontent.com/92089428/166086762-9d671637-6a8f-4ba8-8f3d-d6c13749ad7e.PNG)
+![P20220430_110203000_9FBA3E43-1E39-491D-B9E0-F26909FBEE4E (1)](https://user-images.githubusercontent.com/92089428/166086791-bd227053-a834-4ae5-a4e5-bed5ee4422c4.PNG)
 
 ## 응원의 말
 
